@@ -24,4 +24,5 @@
 |`less`|与more类似，还可以使用vi编辑查找||
 |`awk`|AWK是一种处理文本文件的语言，是一个强大的文本分析工具||
 |`:%s/foo/bar/g`|全文查找替换||
+|`git config -global core.editor vim`|把git的默认编辑器修改为vim||
 ||||
